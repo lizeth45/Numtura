@@ -2,7 +2,7 @@
 Refuerzo en la educación a través del espacio
 
 <h2>Descripción</h2>
-Numtura, que significa numeros y aventrua, es una aplicación creada con la finalidad de desarrollar habilidades de pensamiento critico mediante la resolución de misiones relacionadas con aritmética, geometría y física para mejorar el rendimiento académico y preparar a los jovenes, contribuyendo al desarrollo sostenible, en línea con el ODS 4. 
+Numtura, que significa numeros y aventura, es una aplicación creada con la finalidad de desarrollar habilidades de pensamiento critico mediante la resolución de misiones relacionadas con aritmética, geometría y física para mejorar el rendimiento académico y preparar a los jovenes, contribuyendo al desarrollo sostenible, en línea con el ODS 4. 
 
 <h2>MACC 2023🏆</h2>
 Numtura obtuvo el 3er lugar en el Mission Alignment Community Challenge (MACC) 2023, evento organizado por Enactus Mexico. 
